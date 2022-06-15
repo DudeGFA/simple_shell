@@ -12,7 +12,7 @@ Clone this repository into your working directory. For best results, files shoul
 
 ### Usage
 
-After compilation, the resulting program can run stand-alone, either in interactive or non-interactive mode.
+After compilation, the resulting executable program can run stand-alone, either in interactive or non-interactive mode.
 
 #### Interactive Mode
 
