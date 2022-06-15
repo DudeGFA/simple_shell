@@ -30,7 +30,7 @@ In non-interactive mode, the program will exit after finishing your desired comm
 
 #### Included Built-Ins
 
-This shell has support for the following built-in commands;
+This shell has support for the following built-in commands:
 
 | Command             | Definition                                                                                |
 | ------------------- | ----------------------------------------------------------------------------------------- |
