@@ -4,11 +4,11 @@
 
 ### Description
 
-God'sfavour Idowu-agida and Martins Akhivbareme Shell is a simple UNIX command interpreter that replicates functionalities of the simple shell (sh). Additional functions are also included. This program was written entirely in C as a milestone project for ALX Africa Software Engineering.
+God'sfavour Idowu-Agida and Martins Akhivbareme Shell is a simple UNIX command interpreter that replicates functionalities of the simple shell (sh). Additional functions are also included. This program was written entirely in C as a milestone project for ALX Africa Software Engineering.
 
 ### Installation
 
-Clone this repository into your working directory. For best results, files should be compiled with GCC and the following flags: -Wall -Wextra -Werror -pedantic -std=gnu89
+Clone this repository into your working directory. For best results, files should be compiled with GCC and the following flags: -Wall -Wextra -Werror -pedantic -std=gnu89.
 
 ### Usage
 
@@ -43,5 +43,5 @@ Our shell has support for the following built-in commands:
 
 ### Credits
 
-All code written by [God'sfavour Idowu-agida](https://github.com/DudeGFA) and [Martins Akhivbareme](https://github.com/Izimartin).
+All code written by [God'sfavour Idowu-Agida](https://github.com/DudeGFA) and [Martins Akhivbareme](https://github.com/Izimartin).
 
